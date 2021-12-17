@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3dea7a1c.chunk.css",
+    "main.js": "./static/js/main.bbfcb85b.chunk.js",
+    "main.js.map": "./static/js/main.bbfcb85b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ad22cc54.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ad22cc54.js.map",
+    "static/js/2.ca852bbf.chunk.js": "./static/js/2.ca852bbf.chunk.js",
+    "static/js/2.ca852bbf.chunk.js.map": "./static/js/2.ca852bbf.chunk.js.map",
+    "static/js/3.0a9e5035.chunk.js": "./static/js/3.0a9e5035.chunk.js",
+    "static/js/3.0a9e5035.chunk.js.map": "./static/js/3.0a9e5035.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3dea7a1c.chunk.css.map": "./static/css/main.3dea7a1c.chunk.css.map",
+    "static/js/2.ca852bbf.chunk.js.LICENSE.txt": "./static/js/2.ca852bbf.chunk.js.LICENSE.txt",
+    "static/media/food.f2f26689.jpg": "./static/media/food.f2f26689.jpg",
+    "static/media/location.c501faa8.jpg": "./static/media/location.c501faa8.jpg",
+    "static/media/logo.e4b163bf.jpg": "./static/media/logo.e4b163bf.jpg",
+    "static/media/phone1.8c94aa21.jpg": "./static/media/phone1.8c94aa21.jpg",
+    "static/media/phone2.5c564601.jpg": "./static/media/phone2.5c564601.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad22cc54.js",
+    "static/js/2.ca852bbf.chunk.js",
+    "static/css/main.3dea7a1c.chunk.css",
+    "static/js/main.bbfcb85b.chunk.js"
+  ]
+}
